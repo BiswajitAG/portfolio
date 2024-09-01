@@ -1,2 +1,2 @@
-# portplio
+# portfolio
 creating my own paortplio
